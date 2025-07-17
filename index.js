@@ -3,7 +3,7 @@ const Vec3 = require('vec3');
 require('./keep_alive');
 
 const botUsername = 'AnniversY_01';
-const botPassword = '010101';
+const botPassword = '<010101>';
 const admin = 'Umid';
 const botOption = {
     host: 'hypixel.uz',
